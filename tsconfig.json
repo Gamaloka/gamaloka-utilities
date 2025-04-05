@@ -14,5 +14,6 @@
     "emitDeclarationOnly": false,
     "declaration": true,
     "typeRoots": ["./node_modules/@types"]
-  }
+  },
+  "exclude": ["./example"]
 }
